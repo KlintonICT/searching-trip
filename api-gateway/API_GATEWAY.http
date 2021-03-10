@@ -1,0 +1,25 @@
+GET http://localhost:4000/api/v1/trip
+    ?page=1
+    &limit=2
+
+###
+
+
+GET http://localhost:4000/api/v1/trip
+    ?page=1
+    &limit=2
+    &keyword=ธรรมชาติ
+
+####
+
+
+GET http://localhost:4000/api/v1/trip
+    ?page=2
+    &limit=2
+    &keyword=ธรรมชาติ
+
+####
+
+
+GET http://localhost:4000/api/v1/trip/suggestion
+    ?keyword=ธรรมชาติ
