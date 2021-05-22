@@ -1,4 +1,4 @@
-# Wongnai Frontend Assignment
+# Searching Trip
 
 แบบทดสอบสำหรับ ผู้สมัครตำแหน่ง Software Engineer, Frontend การทำแบบทดสอบผู้สมัครจะต้องคำนึงถึง กฎสามข้อที่กล่าวไว้ด้านล่างเสมอ เพราะเราเชื่อว่าการพัฒนา Software ที่ดีนั้นไม่เพียงแค่ทำให้ Software ทำงานได้ตาม requirement อย่างเดียว แต่จะต้องคำนึงถึง user และการ maintainance ต่อไปในอนาคตด้วย
 
@@ -14,7 +14,7 @@ http://commadot.com/wtf-per-minute/
 > “Indeed, the ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code. ...[Therefore,] making it easy to read makes it easier to write.” - Robert C. Martin
 
 ### 2. ถ้าโปรแกรมพังเราต้องรู้
-
+u
 โปรแกรมที่เราเขียนไปแล้ว เราต้องดูแลรักษามันอีกไปหลายเดือนหรืออาจหลายปี จะทำยังไงให้เรามั่นใจได้ว่าโปรแกรมที่เราเขียนไปทำงานถูกต้องอยู่เสมอ
 
 จงเขียน test ให้เพียงพอ ที่ให้เรามั่นใจว่ามันทำงานถูกต้อง รวมถึงใช้เครื่องมือต่างๆ เพื่อช่วยตรวจสอบก่อนที่จะโปรแกรมจะพังบน production บางครั้งแค่ log error ให้ถูกต้องก็ช่วยได้มากแล้ว
